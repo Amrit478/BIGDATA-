@@ -1,3 +1,3 @@
 Public class Test {
 
-Public static void
+Public static void main 
